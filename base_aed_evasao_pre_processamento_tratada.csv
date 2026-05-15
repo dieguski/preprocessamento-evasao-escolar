@@ -1,0 +1,151 @@
+Idade,Gênero,Estado Civil,Renda Familiar (R$),Escola Ensino Médio,Status,Motivo da Evasão,Trabalha Atualmente,Último Período Cursado,Desempenho,Faixa Etária,Renda Familiar Normalizada
+18,Feminino,Solteiro(a),1414.37,Pública,Ativo,,Não,5,68.5,Jovem,0.2081723534219567
+20,Feminino,Divorciado(a),4238.37,Privada,Evadido,Dificuldade financeira,Não,6,76.4,Jovem,0.851105439660138
+18,Masculino,Viúvo(a),2295.8,Pública,Ativo,,Não,9,77.8,Jovem,0.4088453386212911
+27,Masculino,Solteiro(a),3765.94,Pública,Evadido,Baixo desempenho,Sim,1,61.9,Adulto,0.7435484715540813
+30,Masculino,Solteiro(a),3991.39,Privada,Ativo,,Sim,1,61.6,Adulto,0.7948761147171117
+27,Outro,Casado(a),2466.31,Privada,Evadido,Motivos pessoais,Sim,1,62.1,Adulto,0.4476649280456792
+19,Outro,Viúvo(a),2425.61,Pública,Evadido,Baixo desempenho,Sim,1,61.8,Jovem,0.4383988598410426
+26,Feminino,Divorciado(a),1564.17,Privada,Ativo,,Não,8,76.4,Adulto,0.24227694843558265
+18,Feminino,Divorciado(a),1752.35,Privada,Evadido,Trabalho,Não,4,69.7,Jovem,0.28511942299942855
+33,Outro,Casado(a),2173.05,Privada,Ativo,,Sim,7,79.5,Adulto,0.380899150117135
+33,Feminino,Casado(a),2798.23,Privada,Evadido,Baixo desempenho,Desconhecido,6,72.2,Adulto,0.5232323324310111
+33,Masculino,Solteiro(a),4861.6,Pública,Ativo,,Sim,8,72.2,Adulto,0.992994670303276
+25,Masculino,Solteiro(a),1694.63,Privada,Formado,,Não,9,81.8,Adulto,0.2719784535455802
+29,Masculino,Viúvo(a),2387.09,Privada,Formado,,Não,10,87.7,Adulto,0.4296291068375388
+27,Masculino,Viúvo(a),4892.37,Pública,Ativo,,Sim,6,69.4,Adulto,1.0
+17,Feminino,Viúvo(a),2870.85,Pública,Evadido,Dificuldade financeira,Não,9,81.9,Jovem,0.5397655479843456
+33,Outro,Viúvo(a),3268.13,Pública,Ativo,,Não,8,83.5,Adulto,0.6302133017027255
+24,Outro,Solteiro(a),795.13,Privada,Formado,,Sim,3,68.0,Adulto,0.06719151619740596
+34,Feminino,Viúvo(a),2466.31,Privada,Ativo,,Não,1,62.0,Adulto,0.4476649280456792
+17,Masculino,Solteiro(a),3187.55,Privada,Ativo,,Sim,1,61.7,Jovem,0.6118678526626856
+25,Feminino,Solteiro(a),1013.7,Privada,Evadido,Trabalho,Não,7,72.2,Adulto,0.11695280679906293
+17,Masculino,Divorciado(a),3917.3,Pública,Ativo,,Não,2,65.5,Jovem,0.7780082279042977
+19,Feminino,Viúvo(a),3767.52,Pública,Ativo,,Não,2,65.9,Jovem,0.7439081862411409
+34,Outro,Viúvo(a),2968.44,Privada,Ativo,,Sim,6,76.4,Adulto,0.5619836215983627
+25,Feminino,Divorciado(a),3022.49,Pública,Ativo,,Não,7,77.2,Adulto,0.5742890512411295
+28,Masculino,Divorciado(a),2096.63,Pública,Ativo,,Não,2,63.7,Adulto,0.3635007979746697
+21,Feminino,Divorciado(a),4083.46,Pública,Formado,,Sim,1,62.4,Jovem,0.8158374636016548
+33,Feminino,Solteiro(a),3755.24,Privada,Evadido,Motivos pessoais,Sim,5,69.8,Adulto,0.7411124290531079
+29,Feminino,Divorciado(a),2185.24,Pública,Ativo,,Não,9,81.4,Adulto,0.3836744172280568
+20,Outro,Casado(a),2679.84,Pública,Evadido,Dificuldade financeira,Não,7,73.5,Jovem,0.49627877432912076
+18,Outro,Solteiro(a),2112.46,Pública,Evadido,Baixo desempenho,Desconhecido,1,62.2,Jovem,0.36710477487096943
+28,Feminino,Solteiro(a),2466.31,Privada,Evadido,Baixo desempenho,Não,7,77.9,Adulto,0.4476649280456792
+17,Masculino,Viúvo(a),1415.43,Privada,Ativo,,Sim,6,75.1,Jovem,0.2084136809968195
+33,Masculino,Viúvo(a),2009.44,Privada,Evadido,Dificuldade financeira,Sim,10,88.7,Adulto,0.34365046660458937
+27,Masculino,Divorciado(a),2475.37,Privada,Ativo,,Sim,4,68.9,Adulto,0.44972759580818555
+27,Feminino,Solteiro(a),3430.81,Privada,Formado,,Sim,9,80.4,Adulto,0.6672502544184574
+19,Masculino,Casado(a),2926.15,Pública,Formado,,Sim,4,68.2,Jovem,0.5523555620314318
+25,Outro,Divorciado(a),3996.63,Pública,Ativo,,Sim,10,81.9,Adulto,0.7960690925400183
+27,Masculino,Divorciado(a),3512.74,Privada,Formado,,Sim,9,80.6,Adulto,0.6859030546151622
+21,Feminino,Divorciado(a),2366.27,Privada,Ativo,,Não,1,62.5,Jovem,0.4248890689991963
+25,Outro,Casado(a),4459.41,Privada,Ativo,,Não,7,72.0,Adulto,0.9014290690447299
+24,Outro,Divorciado(a),2922.5,Pública,Evadido,Dificuldade financeira,Sim,10,81.5,Adulto,0.5515245755708195
+32,Feminino,Viúvo(a),3323.2,Pública,Ativo,,Sim,6,69.4,Adulto,0.6427509522194168
+31,Feminino,Divorciado(a),3312.34,Privada,Ativo,,Não,6,72.2,Adulto,0.6402784829146908
+23,Feminino,Casado(a),1785.82,Privada,Ativo,,Sim,3,67.6,Adulto,0.29273945500948234
+29,Masculino,Solteiro(a),1743.56,Privada,Evadido,Trabalho,Não,9,72.2,Adulto,0.28311822546825516
+25,Masculino,Viúvo(a),1951.04,Privada,Evadido,Mudança de curso,Não,2,63.6,Adulto,0.3303546832347912
+26,Masculino,Casado(a),1008.1,Privada,Formado,,Não,1,72.2,Adulto,0.11567786866771243
+29,Masculino,Casado(a),1814.97,Privada,Ativo,,Não,2,65.0,Adulto,0.29937596331820865
+31,Outro,Divorciado(a),1786.73,Privada,Evadido,Baixo desempenho,Sim,8,74.1,Adulto,0.2929466324558268
+25,Feminino,Casado(a),2212.84,Privada,Evadido,Baixo desempenho,Sim,8,79.4,Adulto,0.3899580408754272
+33,Outro,Viúvo(a),2259.32,Desconhecida,Formado,,Não,1,61.9,Adulto,0.4005400273656364
+22,Masculino,Casado(a),3877.26,Pública,Ativo,,Não,8,77.2,Adulto,0.7688924202651417
+21,Feminino,Divorciado(a),3241.07,Pública,Evadido,Motivos pessoais,Não,9,85.9,Jovem,0.6240526185180211
+21,Feminino,Casado(a),1689.11,Privada,Evadido,Trabalho,Desconhecido,10,82.7,Jovem,0.2707217288161061
+18,Feminino,Casado(a),1630.96,Privada,Evadido,Baixo desempenho,Sim,6,72.4,Jovem,0.2574828623271719
+29,Masculino,Viúvo(a),1451.01,Pública,Evadido,Trabalho,Não,5,68.9,Adulto,0.21651409148136427
+22,Feminino,Viúvo(a),2626.08,Privada,Evadido,Mudança de curso,Não,1,61.5,Adulto,0.4840393682681559
+17,Feminino,Divorciado(a),3525.1,Pública,Ativo,,Desconhecido,1,62.6,Jovem,0.6887170252050715
+25,Outro,Viúvo(a),2593.46,Pública,Evadido,Dificuldade financeira,Sim,5,72.2,Adulto,0.4766128536530393
+32,Feminino,Viúvo(a),2134.3,Pública,Formado,,Não,9,86.5,Adulto,0.37207703358323646
+19,Masculino,Viúvo(a),4156.26,Privada,Evadido,Baixo desempenho,Não,4,69.6,Jovem,0.8324116593092112
+33,Masculino,Divorciado(a),2677.19,Privada,Ativo,,Não,8,74.7,Adulto,0.49567545539196384
+20,Masculino,Viúvo(a),2421.23,Privada,Evadido,Baixo desempenho,Não,9,85.8,Jovem,0.4374016760883077
+28,Masculino,Divorciado(a),2466.31,Privada,Formado,,Desconhecido,4,67.0,Adulto,0.4476649280456792
+23,Masculino,Solteiro(a),4700.7,Pública,Ativo,,Sim,4,66.3,Adulto,0.9563629657792946
+19,Feminino,Viúvo(a),2804.11,Pública,Ativo,,Sim,7,75.7,Jovem,0.5245710174689291
+27,Outro,Viúvo(a),2413.48,Pública,Formado,,Sim,4,68.0,Adulto,0.435637252781528
+30,Outro,Solteiro(a),3605.39,Privada,Evadido,Motivos pessoais,Sim,5,72.5,Adulto,0.7069964506633093
+20,Feminino,Divorciado(a),3096.26,Privada,Ativo,,Sim,9,78.9,Jovem,0.5910840844464379
+17,Outro,Viúvo(a),2684.86,Privada,Evadido,Trabalho,Sim,8,83.6,Jovem,0.4974216652968671
+24,Feminino,Casado(a),2515.52,Pública,Ativo,,Desconhecido,7,71.2,Adulto,0.45886844687492173
+34,Masculino,Casado(a),1244.33,Privada,Ativo,,Sim,8,83.7,Adulto,0.16945976773359256
+18,Feminino,Solteiro(a),2466.31,Pública,Evadido,Baixo desempenho,Não,2,64.9,Jovem,0.4476649280456792
+21,Masculino,Casado(a),3054.47,Privada,Ativo,,Não,9,78.6,Jovem,0.5815698586412347
+17,Feminino,Viúvo(a),899.56,Privada,Evadido,Baixo desempenho,Não,6,77.6,Jovem,0.09096683567185823
+23,Feminino,Viúvo(a),2466.31,Pública,Formado,,Sim,9,75.9,Adulto,0.4476649280456792
+20,Outro,Divorciado(a),3547.86,Privada,Evadido,Baixo desempenho,Sim,4,69.5,Jovem,0.6938987380389176
+29,Masculino,Casado(a),2466.31,Privada,Ativo,,Sim,8,74.1,Adulto,0.4476649280456792
+21,Masculino,Divorciado(a),2123.32,Pública,Ativo,,Sim,6,71.0,Jovem,0.36957724417569565
+18,Masculino,Casado(a),1997.41,Pública,Evadido,Motivos pessoais,Sim,8,78.4,Jovem,0.34091162629742033
+30,Masculino,Casado(a),2935.88,Privada,Ativo,,Desconhecido,1,62.4,Adulto,0.5545707670346534
+21,Masculino,Viúvo(a),4843.47,Privada,Ativo,,Sim,3,67.6,Jovem,0.9888670581030288
+18,Feminino,Solteiro(a),4362.93,Privada,Ativo,,Sim,4,67.1,Jovem,0.8794637063817484
+24,Feminino,Viúvo(a),1208.35,Privada,Formado,,Sim,2,72.2,Adulto,0.16126829023966557
+17,Feminino,Solteiro(a),3090.7,Privada,Evadido,Não Informado,Não,6,72.1,Jovem,0.5898182530160255
+24,Masculino,Divorciado(a),1041.91,Pública,Formado,,Sim,2,64.4,Adulto,0.12337530763574109
+24,Feminino,Viúvo(a),2038.03,Pública,Evadido,Motivos pessoais,Sim,9,84.1,Adulto,0.3501594811001805
+17,Outro,Casado(a),3490.13,Privada,Ativo,,Não,9,75.0,Jovem,0.6807554919098346
+28,Feminino,Casado(a),2735.91,Pública,Formado,,Não,1,62.2,Adulto,0.5090440923692676
+26,Feminino,Divorciado(a),3718.99,Privada,Ativo,,Sim,6,74.6,Adulto,0.7328594813278481
+33,Masculino,Casado(a),1326.6,Privada,Evadido,Baixo desempenho,Sim,7,77.8,Adulto,0.18818997488827216
+22,Outro,Casado(a),1623.83,Privada,Evadido,Não Informado,Não,2,64.2,Adulto,0.25585959288493454
+34,Masculino,Divorciado(a),3764.63,Privada,Ativo,,Sim,4,67.0,Adulto,0.7432502270983546
+23,Outro,Viúvo(a),1887.39,Privada,Ativo,,Não,8,83.4,Adulto,0.3158636453668521
+26,Outro,Casado(a),981.89,Pública,Ativo,,Não,1,61.7,Adulto,0.10971070287794517
+25,Outro,Casado(a),1707.32,Pública,Ativo,,Sim,4,69.9,Adulto,0.2748675544182298
+28,Masculino,Viúvo(a),846.3,Pública,Evadido,Baixo desempenho,Sim,10,88.2,Adulto,0.07884126337262115
+20,Feminino,Divorciado(a),2912.31,Pública,Evadido,Mudança de curso,Sim,6,71.2,Jovem,0.5492046435068084
+18,Feminino,Casado(a),2900.54,Privada,Ativo,,Sim,5,73.1,Jovem,0.5465249967557378
+30,Masculino,Casado(a),4375.8,Privada,Formado,,Sim,9,79.5,Adulto,0.88239378740862
+20,Feminino,Divorciado(a),1038.65,Desconhecida,Evadido,Baixo desempenho,Não,8,72.4,Jovem,0.12263311150927633
+24,Masculino,Casado(a),2183.91,Pública,Formado,,Sim,10,82.6,Adulto,0.38337161942186104
+20,Feminino,Solteiro(a),1939.32,Privada,Ativo,,Não,3,66.6,Jovem,0.3276864198598934
+21,Feminino,Divorciado(a),4581.67,Pública,Evadido,Mudança de curso,Não,4,69.3,Jovem,0.9292637004623928
+24,Masculino,Casado(a),2357.68,Desconhecida,Formado,,Sim,2,65.1,Adulto,0.42293340497271403
+22,Outro,Viúvo(a),2251.34,Desconhecida,Formado,,Não,3,67.8,Adulto,0.3987232405284619
+29,Feminino,Solteiro(a),738.84,Pública,Ativo,,Sim,2,64.5,Adulto,0.05437611130209888
+35,Feminino,Casado(a),2124.25,Privada,Ativo,,Sim,9,80.0,Adulto,0.3697889749725092
+23,Feminino,Casado(a),2349.23,Privada,Ativo,,Não,1,63.0,Adulto,0.42100961439951556
+21,Feminino,Divorciado(a),2307.39,Privada,Formado,,Sim,7,77.0,Jovem,0.4114840052181396
+23,Feminino,Casado(a),500.0,Pública,Ativo,,Não,2,63.3,Adulto,0.0
+21,Masculino,Divorciado(a),2397.09,Pública,Formado,,Sim,2,63.3,Jovem,0.43190578207209324
+31,Outro,Solteiro(a),979.66,Pública,Evadido,Dificuldade financeira,Não,10,76.0,Adulto,0.10920300430063952
+30,Outro,Solteiro(a),2067.11,Privada,Formado,,Sim,4,72.2,Adulto,0.356780052682265
+19,Feminino,Casado(a),604.82,Pública,Formado,,Não,1,62.8,Jovem,0.023864109808599925
+23,Outro,Solteiro(a),1944.87,Pública,Formado,,Sim,9,82.4,Adulto,0.32894997461507114
+20,Outro,Divorciado(a),2466.31,Pública,Evadido,Dificuldade financeira,Desconhecido,8,72.2,Jovem,0.4476649280456792
+29,Feminino,Casado(a),2466.31,Pública,Ativo,,Não,7,80.1,Adulto,0.4476649280456792
+20,Masculino,Solteiro(a),2115.88,Pública,Ativo,,Sim,3,67.1,Jovem,0.3678833978011871
+21,Outro,Casado(a),3713.65,Privada,Formado,,Não,9,76.6,Jovem,0.731643736752596
+30,Outro,Viúvo(a),2849.27,Desconhecida,Evadido,Trabalho,Não,7,76.3,Adulto,0.5348524828281771
+22,Outro,Viúvo(a),2086.24,Pública,Evadido,Dificuldade financeira,Sim,10,78.7,Adulto,0.36113533240596757
+21,Outro,Casado(a),2229.45,Pública,Evadido,Dificuldade financeira,Não,4,67.5,Jovem,0.3937395984400221
+34,Feminino,Solteiro(a),2919.57,Pública,Evadido,Baixo desempenho,Não,5,68.1,Adulto,0.550857509727095
+31,Feminino,Solteiro(a),3677.63,Privada,Evadido,Trabalho,Não,4,71.8,Adulto,0.7234431525577308
+22,Masculino,Casado(a),3240.27,Privada,Ativo,,Sim,10,86.5,Adulto,0.6238704844992566
+20,Feminino,Solteiro(a),2876.92,Privada,Ativo,,Não,3,65.9,Jovem,0.5411474898517201
+20,Outro,Viúvo(a),1525.7,Pública,Ativo,,Sim,10,78.6,Jovem,0.2335185788082516
+29,Masculino,Casado(a),2153.91,Desconhecida,Evadido,Motivos pessoais,Não,9,73.6,Adulto,0.3765415937181977
+24,Outro,Casado(a),3799.83,Privada,Evadido,Mudança de curso,Não,6,71.3,Adulto,0.7512641239239863
+30,Outro,Divorciado(a),2814.38,Desconhecida,Formado,,Não,8,83.0,Adulto,0.5269091629348166
+22,Masculino,Casado(a),3135.53,Pública,Evadido,Baixo desempenho,Sim,9,86.6,Adulto,0.6000245880925332
+21,Feminino,Viúvo(a),2367.3,Pública,Ativo,,Sim,3,65.0,Jovem,0.4251235665483555
+22,Outro,Casado(a),1791.32,Privada,Ativo,,Sim,9,80.4,Adulto,0.2939916263884873
+24,Outro,Divorciado(a),3727.49,Pública,Evadido,Não Informado,Não,9,77.7,Adulto,0.7347946552772193
+17,Feminino,Viúvo(a),500.0,Pública,Ativo,,Não,6,76.2,Jovem,0.0
+33,Outro,Solteiro(a),2535.94,Privada,Formado,,Sim,2,65.1,Adulto,0.463517417703882
+30,Outro,Viúvo(a),1459.21,Privada,Evadido,Não Informado,Não,6,75.4,Adulto,0.21838096517369895
+18,Outro,Divorciado(a),3592.86,Privada,Ativo,,Não,2,63.2,Jovem,0.7041437765944126
+27,Feminino,Viúvo(a),955.97,Privada,Evadido,Trabalho,Sim,2,65.0,Adulto,0.10380956066998
+18,Outro,Viúvo(a),2466.31,Desconhecida,Ativo,,Não,6,73.7,Jovem,0.4476649280456792
+24,Outro,Casado(a),2624.36,Privada,Ativo,,Não,4,70.8,Adulto,0.48364778012781257
+18,Masculino,Casado(a),2539.91,Pública,Ativo,,Não,4,68.4,Jovem,0.46442125777200005
+32,Feminino,Casado(a),1352.76,Pública,Ativo,,Não,3,72.2,Adulto,0.19414575730186664
+25,Feminino,Casado(a),4169.38,Privada,Evadido,Não Informado,Sim,6,72.0,Adulto,0.8353986572169467
+23,Masculino,Divorciado(a),2966.37,Pública,Formado,,Sim,9,79.8,Adulto,0.5615123498248098
+17,Outro,Viúvo(a),2471.13,Privada,Formado,,Não,7,77.0,Jovem,0.4487622855087345
+32,Masculino,Casado(a),3141.08,Pública,Ativo,,Sim,6,74.0,Adulto,0.6012881428477109
+24,Feminino,Casado(a),722.38,Privada,Formado,,Não,2,72.2,Adulto,0.050628703866022216
