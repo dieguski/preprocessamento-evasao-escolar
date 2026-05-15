@@ -1,36 +1,40 @@
-# Análise de Evasão Escolar
+# Pré-processamento de Dados — Evasão Escolar
 
-Análise exploratória e estatística de fatores socioeconômicos associados à evasão escolar em instituição de ensino superior.
+Pipeline completo de pré-processamento de um dataset educacional bruto,
+preparando-o para uso em modelos de machine learning.
+
+## Contexto
+
+Dataset com 153 registros de estudantes de ensino superior, contendo
+informações socioeconômicas e acadêmicas em estado bruto — com duplicatas,
+valores nulos, outliers e inconsistências de texto.
 
 ## Objetivo
 
-Identificar padrões e relações entre variáveis como renda familiar, emprego, desempenho acadêmico e período cursado com a taxa de evasão escolar.
-
-## Perguntas respondidas
-
-- Existe uma faixa etária predominante entre os evadidos?
-- Estudantes que trabalham têm maior probabilidade de evadir?
-- A renda familiar influencia na evasão?
-- Qual período do curso concentra maior taxa de evasão?
-- Qual o motivo de evasão mais frequente?
-- O desempenho acadêmico tem relação com a evasão?
+Transformar o dataset bruto em um dataset limpo, padronizado e codificado,
+pronto para ser utilizado como input em um modelo preditivo de evasão escolar.
 
 ## Tecnologias utilizadas
 
 - Python 3
 - pandas
-- matplotlib
-- estatística descritiva (média, mediana, moda, variância, desvio padrão, correlação)
 
-## Principais etapas
+## Etapas do pipeline
 
-1. Identificação e remoção de duplicatas
-2. Tratamento de valores nulos com lógica condicional
-3. Análise estatística descritiva por grupo (evadidos vs. não evadidos)
-4. Visualizações e tabelas cruzadas para comunicação de insights
+1. Carregamento e análise inicial do dataset
+2. Remoção de coluna duplicada e linhas duplicadas
+3. Tratamento de valores nulos com estratégia adequada por coluna
+4. Identificação e substituição de outliers pela mediana
+5. Padronização de valores categóricos inconsistentes
+6. Criação de variáveis derivadas (Faixa Etária, Renda Normalizada)
+7. Encoding: mapeamento ordinal para Faixa Etária, OHE para demais categóricas
+8. Definição da variável target (Status → binário)
+9. Exportação do dataset tratado em CSV
 
 ## Arquivos
 
 | Arquivo | Descrição |
 |---|---|
-| `resolucao_exercicio_s3.ipynb` | Análise estatística e visualizações |
+| `pre_processamento_evasao_escolar.ipynb` | Pipeline completo de pré-processamento |
+| `base_aed_evasao_pre_processamento.xlsx` | Dataset bruto de entrada |
+| `base_aed_evasao_pre_processamento_tratada.csv` | Dataset tratado exportado |
