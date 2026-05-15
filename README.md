@@ -16,7 +16,7 @@ pronto para ser utilizado como input em um modelo preditivo de evasão escolar.
 
 ## Tecnologias utilizadas
 
-- Python 3
+- Python
 - pandas
 
 ## Etapas do pipeline
