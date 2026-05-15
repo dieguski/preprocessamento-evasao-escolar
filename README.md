@@ -20,19 +20,17 @@ Identificar padrões e relações entre variáveis como renda familiar, emprego,
 - Python 3
 - pandas
 - matplotlib
-- estatística descritiva (média, mediana, moda, variância, desvio padrão, correlação, covariância)
+- estatística descritiva (média, mediana, moda, variância, desvio padrão, correlação)
 
 ## Principais etapas
 
-1. Seleção e justificativa de variáveis relevantes
-2. Identificação e remoção de duplicatas
-3. Tratamento de valores nulos com lógica condicional
-4. Análise estatística descritiva por grupo (evadidos vs. não evadidos)
-5. Visualizações e tabelas cruzadas para comunicação de insights
+1. Identificação e remoção de duplicatas
+2. Tratamento de valores nulos com lógica condicional
+3. Análise estatística descritiva por grupo (evadidos vs. não evadidos)
+4. Visualizações e tabelas cruzadas para comunicação de insights
 
 ## Arquivos
 
 | Arquivo | Descrição |
 |---|---|
-| `notebook_semana4.ipynb` | Pré-processamento e limpeza dos dados |
 | `resolucao_exercicio_s3.ipynb` | Análise estatística e visualizações |
